@@ -124,3 +124,25 @@ li:before {
   margin: 0;
   padding: 0;
 }
+
+img#pay-btn {
+    width: 31%;
+    position: absolute;
+    top: 96px;
+    left: 692px;
+}
+
+img#engage-btn {
+    height: 63px;
+    width: 270px;
+    position: absolute;
+    top: 68px;
+    left: 554px;
+}
+
+img#submit-payment-btn {
+    width: 90%;
+    top: 32px;
+    position: absolute;
+    left: 239px;
+}
