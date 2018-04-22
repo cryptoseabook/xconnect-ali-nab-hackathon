@@ -1,0 +1,8 @@
+Hex values
+
+Light grey header background #f5f5f5
+Deep pink circle (active) #d1406E
+Light grey circle (inactive) #f5f5f5
+Orange bottom right dialog header #f4a63e
+Light grey bottom right box background #f5f5f5
+Dark grey bottom right items background #e0e0e0
